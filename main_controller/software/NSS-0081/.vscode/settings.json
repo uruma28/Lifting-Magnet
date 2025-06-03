@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "tkernel.h": "c",
+        "config.h": "c",
+        "config_bsp.h": "c"
+    }
+}
